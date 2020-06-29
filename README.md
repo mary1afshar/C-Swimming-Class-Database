@@ -14,24 +14,24 @@ Within C++, I created an object-oriented database system. It is a simulated swim
 *****************Occupancy Information******************
 ⇒After picking the type of swimming class, user inputs their information, if the swimming class has space.
 For example; Preschool
-</p><img src="https://github.com/mary1afshar/C-Swimming-Class-Database/blob/master/ImagesC%2B%2B/Image3.PNG" width="23%">
+</p><img src="https://github.com/mary1afshar/C-Swimming-Class-Database/blob/master/ImagesC%2B%2B/image3.PNG" width="23%">
 
 
 **********************Delete a swimming class***********************
 ⇒A list of all the enrolled swimmers appears with a number on the side.
 ⇒User selects the number they want to delete.
-</p><img src="https://github.com/mary1afshar/C-Swimming-Class-Database/blob/master/ImagesC%2B%2B/Image4.PNG" width="23%">
+</p><img src="https://github.com/mary1afshar/C-Swimming-Class-Database/blob/master/ImagesC%2B%2B/image4.PNG" width="23%">
 
 
 **********************View all swimming classes***********************
 ⇒A list of all the enrolled swimmers appears with a number on the side.
-</p><img src="https://github.com/mary1afshar/C-Swimming-Class-Database/blob/master/ImagesC%2B%2B/Image5.PNG" width="23%">
+</p><img src="https://github.com/mary1afshar/C-Swimming-Class-Database/blob/master/ImagesC%2B%2B/image5.PNG" width="23%">
 
 
 
 **********************Modify a swimming class***********************
 ⇒A list of all the enrolled swimmers appears with a number on the side.
-</p><img src="https://github.com/mary1afshar/C-Swimming-Class-Database/blob/master/ImagesC%2B%2B/Image6.PNG" width="23%">
+</p><img src="https://github.com/mary1afshar/C-Swimming-Class-Database/blob/master/ImagesC%2B%2B/image6.PNG" width="23%">
 
 
 # Features
