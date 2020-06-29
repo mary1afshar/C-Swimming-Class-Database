@@ -9,7 +9,7 @@ Within C++, I created an object-oriented database system. It is a simulated swim
 
 *****************Add a swimming class******************
 ⇒User picks what type of class they want to be enrolled in .
-</p><img src="https://github.com/mary1afshar/C-Swimming-Class-Database/blob/master/ImagesC%2B%2B/Image2.PNG" width="23%"></p>
+</p><img src="https://github.com/mary1afshar/C-Swimming-Class-Database/blob/master/ImagesC%2B%2B/image2.PNG" width="23%"></p>
 
 *****************Occupancy Information******************
 ⇒After picking the type of swimming class, user inputs their information, if the swimming class has space.
